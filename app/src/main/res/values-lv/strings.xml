@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+<!ENTITY appName "Copper">
+]>
+<resources>
+    <string name="service_auto_start_description">Copper tika palaists automātiski</string>
+    <string name="service_name">Copper pakalpojums</string>
+</resources>
